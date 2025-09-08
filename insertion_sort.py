@@ -10,4 +10,4 @@ def insertion_sort(arr):
 arr=[5,25,36,4,7,89,29,7]
 insertion_sort(arr)
 print(arr)
-print((arr.index(7)))
+print(arr[7])
